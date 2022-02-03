@@ -56,7 +56,7 @@ nav ul li a:hover{
 }
 
 .btn{
-    background-color: #f9004d;
+    background-color: #831a83;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -132,6 +132,7 @@ h4{
     font-size: 26px;
     margin-bottom: 25px;
     text-transform: capitalize;
+    font-weight: lighter;
 }
 
 .about-text p{
@@ -140,6 +141,7 @@ h4{
     line-height: 28px;
     font-size: 19px;
     margin-bottom: 45px;
+    font-weight: lighter;
 }
 
 .more{
@@ -180,7 +182,7 @@ h4{
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color: #f9004d;
+    color: #831a83;
 }
 
 h5{
@@ -198,7 +200,7 @@ h5{
 }
 
 .card .button{
-    background-color: #f9004d;
+    background-color: #831a83;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -251,10 +253,10 @@ h1 {
   color: transparent;
   background: conic-gradient(
     #D9D7F1 12%, 
-    #BAABDA 12%, #BAABDA 33%, 
+    #d06be9 12%, #BAABDA 33%, 
     #E7FBBE 33%, #E7FBBE 55%, 
     #d1f0c3 55%, #FFCBCB 70%, 
-    #B5DEFF 70%, rgb(196, 225, 245) 87%, 
+    rgb(196, 245, 242) 70%, rgb(105, 44, 121) 87%, 
     #F7D1BA 87%);
   background-size: 50%;
   background-clip: text;  
